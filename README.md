@@ -1358,19 +1358,3 @@ The data proves that Swiggy’s main challenge is **retention**, not acquisition
 * **Machine Learning:** Classification, ROC AUC optimization, and feature importance.
 * **Deployment:** Docker, Flask, and Cloud Hosting.
 
----
-© 2026 Pralhad | [Portfolio](https://github.com/parlhad)
----
-
-
-
-## 📮 Contact
-
-Feel free to connect with me for feedback, collaborations, or internships:
-
-- 📧 **Email:** [parlhadjadhav7@gmail.com]  
-- 💼 **LinkedIn:** [www.linkedin.com/in/pralhad-jadhav-]
-
----
-
-⭐ If you found this project useful, feel free to star the repo!
