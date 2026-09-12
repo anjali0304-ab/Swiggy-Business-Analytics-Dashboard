@@ -324,7 +324,7 @@ GROUP BY r.name
 ORDER BY avg_order_revenue DESC;
 
 
--- Q21) Top 20% Restaurants Driving Revenue
+-- Q21) Pareto analysis to identify the restaurants contributing to 80% of total revenue
 
 WITH restaurant_revenue AS (
     SELECT r.name,
